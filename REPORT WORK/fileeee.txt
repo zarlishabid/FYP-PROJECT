@@ -1,0 +1,10 @@
+ViewBag is a way to pass data from the controller to the view.
+ [HttpPost] //post for submit//pick from database
+[HttpGet] //get for data gathering
+//session use to store data value across request
+//FA enables user and password validation for Web applications
+tempdata transfer data from view to controller, controller to view, or from one action method to another action method of the same or a different controller.
+redirecttoaction:makes new requests and URL in the browser's address bar is updated with the generated URL by MVC
+ //flag--makes sure condition is met
+
+
